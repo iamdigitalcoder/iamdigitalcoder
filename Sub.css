@@ -1,0 +1,30 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #0c0c0c;
+  background-color: floralwhite;
+}
+
+table{
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  
+
+ }
+    tbody tr {
+  background-image:url(../images/body_bg.jpg);
+}
+
+.SUB tr th {
+      color: red;
+      border: 3px solid black;
+      padding: 2px;
+     
+
+}
+.SUB tr td{
+       color: orange;
+       border: 3px solid black;
+       
+       
+}
